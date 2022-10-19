@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3> I am a junior front end developer (React JS) </h5>
+<h3> I am a junior mobile app developer (Flutter) and junior front end developer (React JS) </h5>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doclock4715)](https://github.com/doclock4715/github-readme-stats)
 <!--
